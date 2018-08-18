@@ -1,8 +1,9 @@
 ## [Juan Pablo Fernandez Portfolio](http://juanpablofernandez.me)
 Built with [Carrd](http://carrd.co/)
-***
 
 > Purchase [Carrd](http://carrd.co/) membership to make things easier. You will still need to follow the tutorial in order to create a multiple page site.
+
+***
 
 #### How to create a multiple page site:
 1. Create layout with [Carrd](http://carrd.co/)
