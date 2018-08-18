@@ -6,7 +6,7 @@ Built with [Carrd](http://carrd.co/)
 ***
 
 #### How to create a multiple page site:
-1. Create layout with [Carrd](http://carrd.co/)
+* Create layout with [Carrd](http://carrd.co/)
 * Publish site with [Carrd](http://carrd.co/)
 * Go to live site and inspect element
 * Go to sources and pretty print the html file
