@@ -111,7 +111,6 @@ s {
 body:before {
     content: '';
     display: block;
-    background-image: linear-gradient(45deg, #FFA596 0%, #0075FF 100%);
     position: fixed;
     top: 0;
     left: 0;
